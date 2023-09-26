@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "name": "Gaurav",
+      "email": "gauravsapkal@gmail.com",
+      "password": "Abc@345",
+      "id": 1
+    },
+    {
+      "name": "Swapnil",
+      "email": "swapnilbhavar@gmail.com",
+      "password": "123@HGS",
+      "id": 2
+    },
+    {
+      "name": "Kiran",
+      "email": "kiransonawane@gmail.com",
+      "password": "Ks@7899",
+      "id": 3
+    },
+    {
+      "name": "Mahesh",
+      "email": "mahesh@tset.com",
+      "password": "Axc&78798",
+      "id": 4
+    },
+    {
+      "name": "Siddhesh",
+      "email": "siddhesh@test.com",
+      "password": "Sidd@78964",
+      "id": 5
+    },
+    {
+      "name": "Vighnesh",
+      "email": "vighuaher123@gmail.com",
+      "password": "Vighu$456",
+      "id": 6
+    },
+    {
+      "name": "Priya",
+      "email": "Priyagadge@gmail.com",
+      "password": "Priya@234",
+      "id": 7
+    },
+    {
+      "name": "Swara",
+      "email": "swara@789gmail.com",
+      "password": "@123",
+      "id": 8
+    },
+    {
+      "name": "batman",
+      "email": "batman@7899test.com",
+      "password": "bat@345",
+      "id": 9
+    },
+    {
+      "name": "Paurnima",
+      "email": "pau789@gmail.com",
+      "password": "pau@123",
+      "id": 10
+    }
+  ]
+}
